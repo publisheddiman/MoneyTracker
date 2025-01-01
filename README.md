@@ -1,4 +1,4 @@
-Projeck UAS Mata Kuliah Pengembangan Aplikasi Mobile
+Projeck UAS Mata Kuliah Pengembangan Aplikasi Mobilee
 
 Adil Zukhruf Firdaus 122705005
 Aghiz ghifari Setya Hidayat 122705008
