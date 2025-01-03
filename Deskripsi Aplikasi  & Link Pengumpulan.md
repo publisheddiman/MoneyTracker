@@ -4,6 +4,17 @@ Adil Zukhruf Firdaus 122705005
 Aghiz ghifari Setya Hidayat 122705008
 Ahmad juaeni yunus 122705011
 Diman Fathurohman 122705037
+
+ Drive Pitch deck
+https://drive.google.com/drive/folders/1Tj30rrs-e7SP1FnyMjHitkiO__Gkhnq5?usp=sharing
+- Link GitHub
+https://github.com/publisheddiman/MoneyTracker1
+- Link Vidio Demo
+https://youtu.be/kpLzUepIt7c
+- Link Vidio Pitch Deck
+
+
+- Link Playstore
  
 
 Money Tracker adalah aplikasi pengelola keuangan pribadi yang dirancang untuk memudahkan Anda mencatat, mengatur, dan menganalisis keuangan Anda. Dengan antarmuka yang intuitif, fitur yang canggih, dan fokus pada pengalaman pengguna, Money Tracker menjadi alat yang ideal untuk membantu Anda mencapai tujuan finansial.
