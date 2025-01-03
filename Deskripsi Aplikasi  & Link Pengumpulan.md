@@ -5,15 +5,12 @@ Aghiz ghifari Setya Hidayat 122705008
 Ahmad juaeni yunus 122705011
 Diman Fathurohman 122705037
 
- Drive Pitch deck
+ Drive Pitch deck dan vidio presentasi Pitch Deck
 https://drive.google.com/drive/folders/1Tj30rrs-e7SP1FnyMjHitkiO__Gkhnq5?usp=sharing
 - Link GitHub
 https://github.com/publisheddiman/MoneyTracker1
 - Link Vidio Demo
 https://youtu.be/kpLzUepIt7c
-- Link Vidio Pitch Deck
-
-
 - Link Playstore
  
 
