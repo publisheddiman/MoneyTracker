@@ -12,6 +12,7 @@ https://github.com/publisheddiman/MoneyTracker1
 - Link Vidio Demo
 https://youtu.be/kpLzUepIt7c
 - Link Playstore
+https://play.google.com/store/apps/details?id=com.informatika.moneytracker&pli=1
  
 
 Money Tracker adalah aplikasi pengelola keuangan pribadi yang dirancang untuk memudahkan Anda mencatat, mengatur, dan menganalisis keuangan Anda. Dengan antarmuka yang intuitif, fitur yang canggih, dan fokus pada pengalaman pengguna, Money Tracker menjadi alat yang ideal untuk membantu Anda mencapai tujuan finansial.
